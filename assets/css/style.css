@@ -1,0 +1,134 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Anatolian+Hieroglyphs&display=swap');
+
+/* Asterisk wild card selector to override the default styles applied by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic  project style*/
+    color: #000000;
+    font-family: 'Noto Sans Anatolian Hieroglyphs', sans-serif;
+}
+
+h1 {
+    font-size: 1.0771875rem;
+    font-weight: 800;
+    line-height: normal;
+}
+
+h1>span {
+    font-size: 1.3505625rem;
+    color: #FFAA04;
+}
+
+h2 {
+    font-size: 0.952375rem;
+    font-weight: 400;
+}
+
+/* Header*/
+header {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    padding: 0 1rem;
+    align-items: baseline;
+
+}
+
+header a {
+    text-decoration: none;
+    color: inherit
+}
+
+#menu {
+    list-style-type: none;
+    padding-left: 15px;
+    margin-top: 20px;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 3px solid #FFAA04;
+    ;
+}
+
+/* Navbar styles with dropdown toggle*/
+nav {
+    position: absolute;
+    left: 0;
+    top: 100%;
+    width: 100%;
+    box-shadow: 0 2px 2px #000000;
+    display: none;
+}
+
+/*Nav toggle*/
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 1.75rem;
+    position: absolute;
+    top: 25%;
+    left: 90%;
+}
+
+/* Media query: tablets and larger (768px and up)*/
+@media screen and (min-width: 768px) {
+    h1 {
+        font-size: 1.2771875rem;
+    }
+
+    h1>span {
+        font-size: 1.9505625rem;
+    }
+
+    h2 {
+        font-size: 1.22375rem;
+    }
+
+    /*Header*/
+    nav {
+        display: block;
+        box-shadow: none;
+        top: 20%;
+
+    }
+
+    #menu {
+        display: flex;
+        justify-content: flex-end;
+        padding-right: 5%;
+
+    }
+
+    #menu>li {
+        display: flex;
+        padding-left: 1rem;
+        font-size: 1.2rem;
+        margin-left: 2%;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+
+}
