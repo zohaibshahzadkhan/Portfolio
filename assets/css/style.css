@@ -16,6 +16,7 @@ body {
     /* Generic  project style*/
     color: #000000;
     font-family: 'Noto Sans Anatolian Hieroglyphs', sans-serif;
+    padding-left: 2%;
 }
 
 h1 {
@@ -39,7 +40,6 @@ header {
     display: flex;
     position: fixed;
     width: 100%;
-    padding: 0 1rem;
     align-items: baseline;
 
 }
@@ -51,8 +51,9 @@ header a {
 
 #menu {
     list-style-type: none;
-    padding-left: 15px;
     margin-top: 20px;
+    border: none;
+
 }
 
 #menu>li {
@@ -61,7 +62,7 @@ header a {
 
 .active {
     border-bottom: 3px solid #FFAA04;
-    ;
+
 }
 
 /* Navbar styles with dropdown toggle*/
@@ -70,7 +71,7 @@ nav {
     left: 0;
     top: 100%;
     width: 100%;
-    box-shadow: 0 2px 2px #000000;
+    box-shadow: 1px 2px 0px #000000;
     display: none;
 }
 
@@ -89,6 +90,14 @@ nav {
     top: 25%;
     left: 90%;
 }
+
+/* Main Content*/
+main {
+    /* Make main element take any surplus space to push footer down. This property sets flex grow,shrink and basis*/
+    flex: 1 0 auto;
+    margin-top: 197px;
+}
+
 
 /* Media query: tablets and larger (768px and up)*/
 @media screen and (min-width: 768px) {
@@ -121,13 +130,17 @@ nav {
 
     #menu>li {
         display: flex;
-        padding-left: 1rem;
         font-size: 1.2rem;
         margin-left: 2%;
     }
 
     .nav-toggle-label {
         display: none;
+    }
+
+    /* Main Content*/
+    main {
+        margin-top: 107px;
     }
 
 
