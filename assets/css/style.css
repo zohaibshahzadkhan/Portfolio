@@ -41,7 +41,6 @@ header {
     position: fixed;
     width: 100%;
     align-items: baseline;
-
 }
 
 header a {
@@ -95,12 +94,41 @@ nav {
 main {
     /* Make main element take any surplus space to push footer down. This property sets flex grow,shrink and basis*/
     flex: 1 0 auto;
-    margin-top: 197px;
+    margin-top: 188px;
+
 }
+
+#verticle-border {
+    display: none;
+}
+
+/* Bio section*/
+#my-bio img {
+    width: 50%;
+    margin-left: 25%;
+}
+
+#my-bio p {
+    padding: 10px 20px;
+    text-align: center;
+}
+
+p#highlight {
+    padding: 0;
+    font-weight: 800;
+    font-size: 1.2rem;
+}
+
+p#highlight>span {
+    color: #FFAA04;
+}
+
+
 
 
 /* Media query: tablets and larger (768px and up)*/
 @media screen and (min-width: 768px) {
+
     h1 {
         font-size: 1.2771875rem;
     }
@@ -142,6 +170,5 @@ main {
     main {
         margin-top: 107px;
     }
-
 
 }
