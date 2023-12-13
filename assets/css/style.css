@@ -173,6 +173,16 @@ main {
     main {
         margin-top: 107px;
     }
+
+    /*Bio section*/
+
+    #my-bio p {
+        font-size: 1.2rem;
+    }
+
+    #my-bio p>span {
+        font-size: 1.4rem;
+    }
 }
 
 /* Media query: laptops and Desktop (992px and up)*/
