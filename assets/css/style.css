@@ -101,10 +101,6 @@ main {
 
 }
 
-#verticle-border {
-    display: none;
-}
-
 /* Bio section*/
 #my-bio img {
     width: 50%;
@@ -125,6 +121,23 @@ main {
 #my-bio p>span>span {
     color: #FFAA04;
 }
+
+#verticle-border {
+    display: none;
+}
+
+#main-bio-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+}
+
+#info {
+    border-bottom: 1px solid black;
+    width: 90%;
+    padding-bottom: 30px;
+}
+
 
 
 /* Media query: tablets and larger (768px and up)*/
@@ -232,7 +245,6 @@ main {
 
     #my-bio {
         margin-top: 90px;
-        margin-left: 3%;
         display: flex;
     }
 
@@ -251,7 +263,7 @@ main {
     #my-bio img {
         width: 250px;
         height: 250px;
-        margin-left: 5%;
+        margin-left: 0;
     }
 
     #my-bio p {
