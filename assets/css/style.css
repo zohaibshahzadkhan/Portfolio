@@ -149,6 +149,33 @@ audio {
     margin-top: 5px;
 }
 
+/* Footer*/
+footer {
+    background-color: #FFAA04;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer>span {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0 10px 50px;
+    font-weight: 800;
+}
+
+#social-networks {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+
+}
+
+#social-networks img {
+    width: 30px;
+    height: 30px;
+    margin: 10px 5px;
+
+}
 
 /* Media query: tablets and larger (768px and up)*/
 @media screen and (min-width: 768px) {
@@ -299,6 +326,16 @@ audio {
         width: 40%;
         margin-left: 25%;
         margin-top: 20px;
+    }
+
+    footer>span {
+        font-size: 1.6rem;
+    }
+    
+    #social-networks img {
+        width: 45px;
+        height: 45px;
+    
     }
 
 }
