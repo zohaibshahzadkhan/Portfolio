@@ -135,9 +135,19 @@ main {
 #info {
     border-bottom: 1px solid black;
     width: 90%;
-    padding-bottom: 30px;
 }
 
+#about-me>p {
+    width: 90%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+audio {
+    width: 60%;
+    margin-left: 14%;
+    margin-top: 5px;
+}
 
 
 /* Media query: tablets and larger (768px and up)*/
@@ -266,13 +276,29 @@ main {
         margin-left: 0;
     }
 
-    #my-bio p {
+    #info {
+        padding-bottom: 30px;
+    }
+
+    #info p {
         width: 60%;
         font-size: 1.6rem;
     }
 
     #my-bio p>span {
         font-size: 1.8rem;
+    }
+
+    #about-me>p {
+        width: 80%;
+        margin-left: 5%;
+        font-size: 1.6rem;
+    }
+
+    audio {
+        width: 40%;
+        margin-left: 25%;
+        margin-top: 20px;
     }
 
 }
