@@ -16,7 +16,7 @@ body {
     /* Generic  project style*/
     color: #000000;
     font-family: 'Noto Sans Anatolian Hieroglyphs', sans-serif;
-    padding:0 2%;
+    padding: 0 2%;
 }
 
 h1 {
@@ -106,6 +106,7 @@ main {
     margin-bottom: 10%;
 
 }
+
 #my-bio img {
     width: 50%;
     margin-left: 25%;
@@ -151,6 +152,46 @@ audio {
     width: 80%;
     margin-left: 5%;
     margin-top: 5px;
+}
+
+/*Experiences container*/
+.experiences {
+    display: flex;
+    padding: 20px 0;
+}
+
+.experiences ul {
+    padding: 1%;
+    list-style-type: '- ';
+}
+
+.experiences ul>li {
+    line-height: 1.5rem;
+}
+
+.company-logo {
+    display: none;
+    border: 2px solid black;
+    width: 65px;
+    height: 65px;
+    margin-right: 2%;
+}
+
+.experience-detail {
+    width: 100%;
+}
+
+.experience-detail>h2 {
+    font-weight: bold;
+    border-bottom: 3px solid #FFAA04;
+}
+
+.time-period {
+    text-align: right;
+}
+
+.work-summery {
+    padding: 10px 0;
 }
 
 /* Footer*/
@@ -241,6 +282,11 @@ footer>span {
     #my-bio p>span {
         font-size: 1.4rem;
     }
+
+    /*Expreinces container*/
+    .experiences ul {
+        width: 80%;
+    }
 }
 
 /* Media query: laptops and Desktop (992px and up)*/
@@ -265,6 +311,12 @@ footer>span {
         top: 20%;
 
     }
+
+    /*main*/
+    main {
+        padding-top: 1%;
+    }
+
 
     #menu {
         display: flex;
@@ -328,6 +380,19 @@ footer>span {
         font-size: 1.6rem;
     }
 
+    /*Expreinces container*/
+    .experiences {
+        padding-top: 1%;
+    }
+
+    .company-logo {
+        display: block;
+    }
+
+    .experiences ul {
+        width: 50%;
+    }
+
     audio {
         width: 40%;
         margin-left: 25%;
@@ -337,11 +402,11 @@ footer>span {
     footer>span {
         font-size: 1.6rem;
     }
-    
+
     #social-networks img {
         width: 45px;
         height: 45px;
-    
+
     }
 
 }
