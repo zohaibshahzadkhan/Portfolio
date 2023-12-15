@@ -101,7 +101,7 @@ main {
 
 }
 
-/* Bio section*/
+/* Bio container*/
 #my-bio {
     margin-bottom: 10%;
 
@@ -227,7 +227,7 @@ footer>span {
         margin-top: 107px;
     }
 
-    /*Bio section*/
+    /*Bio container*/
 
     #my-bio img {
         width: 35%;
@@ -302,7 +302,7 @@ footer>span {
         height: 60vh;
     }
 
-    /* Bio section*/
+    /* Bio container*/
     #my-bio img {
         width: 250px;
         height: 250px;
