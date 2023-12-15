@@ -174,10 +174,19 @@ audio {
 
 .company-logo {
     display: none;
-    border: 2px solid black;
     width: 65px;
     height: 65px;
-    margin-right: 2%;
+    margin-right: 1%;
+}
+
+.company-logo img {
+    width: 61px;
+    height: 61px;
+}
+
+.company-logo img:hover {
+    width: 66px;
+    height: 66px;
 }
 
 .experience-detail {
@@ -185,6 +194,7 @@ audio {
 }
 
 .experience-detail>h2 {
+    padding-top: 5px;
     font-weight: bold;
     border-bottom: 3px solid #FFAA04;
 }
@@ -289,6 +299,9 @@ footer>span {
     /*Expreinces container*/
     .experiences ul {
         width: 80%;
+    }
+    .company-logo {
+        display: block;
     }
 }
 
