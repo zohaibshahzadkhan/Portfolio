@@ -4,4 +4,4 @@ Welcome to the repository for my personal portfolio! This compilation provides a
 
 Experience the magic of the live site by simply clicking right here - <a href="https://zohaibshahzadkhan.github.io/Portfolio/" target="_blank"> My Portfolio </a>
 
-![Responsive Mockup](assets/images/live-mockup)
+![Responsive Mockup](assets/images/live-mockup.jpeg)
