@@ -29,6 +29,8 @@ Welcome to the world of my own user experience story. Come along on a trip where
 
     * <b>Story:</b> As a recruiter, I want to easily navigate through the candidate profolio site to learn the candidate's background, work experiences, and achievements so that I can assess their suitability for the position. 
 
+    * As a recruiter, I want to hear candidate introduction on the landing page so that I can understand more about candidates interest if they aligned with company goals. 
+
 2. As a Potential Client:
 
     * <b>Story:</b> As a potential client, I want to view social media networks like LinkedIn profile and Medium posts that shows candidate's pofile and projects to evalute their expertise and findout if they align with my project requirements. 
@@ -40,6 +42,10 @@ Welcome to the world of my own user experience story. Come along on a trip where
 4. As a Student or Aspiring Professional:
 
     * <b>Story:</b>   As a student or aspiring professional, I want to explore the candidate's career path, learn from their experiences, and gain insights into industry trends to guide my own journey.
+
+5. As a General Audience:
+
+    * <b>Story:</b>   As a general audience member, I want to navigate through the portfolio easily and enjoyably, discovering the candidate's personality, passions, and the impact of their work in a way that is accessible and engaging.
 
 
 
