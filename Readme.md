@@ -5,3 +5,43 @@ Welcome to the repository for my personal portfolio! This compilation provides a
 Experience the magic of the live site by simply clicking right here - <a href="https://zohaibshahzadkhan.github.io/Portfolio/" target="_blank"> My Portfolio </a>
 
 ![Responsive Mockup](assets/images/live-mockup.jpeg)
+
+# Creating Exceptional Moments: Revealing the User-Centered Tale of Zohaib
+
+Welcome to the world of my own user experience story. Come along on a trip where deliberate design meets user enjoyment, creating digital experiences that have a lasting impression.
+
+
+## Target Audience
+* Employers and Recruiters 
+* Clients and Customers
+* Collaborators and Partners
+* Networking Contacts
+* Educators and Mentors
+* Peers and Colleagues
+* Personal Branding
+* Students and Aspiring Professionals
+* General Audience
+
+
+## User Stories
+
+1. As a employers and recruiters 
+
+    * <b>Story:</b> As a recruiter, I want to easily navigate through the candidate profolio site to learn the candidate's background, work experiences, and achievements so that I can assess their suitability for the position. 
+
+2. As a Potential Client:
+
+    * <b>Story:</b> As a potential client, I want to view social media networks like LinkedIn profile and Medium posts that shows candidate's pofile and projects to evalute their expertise and findout if they align with my project requirements. 
+
+3. As a Networking Contact:
+
+    * <b>Story:</b>  As a networking contact, I want to quickly understand the candidate's professional background and accomplishments to determine the potential value of connecting with them and contact them via contact form.
+
+4. As a Student or Aspiring Professional:
+
+    * <b>Story:</b>   As a student or aspiring professional, I want to explore the candidate's career path, learn from their experiences, and gain insights into industry trends to guide my own journey.
+
+
+
+
+
