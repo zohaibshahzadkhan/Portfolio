@@ -29,7 +29,7 @@ Welcome to the world of my own user experience story. Come along on a trip where
 
     * <b>Story:</b> As a recruiter, I want to easily navigate through the candidate profolio site to learn the candidate's background, work experiences, and achievements so that I can assess their suitability for the position. 
 
-    * As a recruiter, I want to hear candidate introduction on the landing page so that I can understand more about candidates interest if they aligned with company goals. 
+    * <b>Story:</b> As a recruiter, I want to hear candidate introduction on the landing page so that I can understand more about candidates interest if they aligned with company goals. 
 
 2. As a Potential Client:
 
