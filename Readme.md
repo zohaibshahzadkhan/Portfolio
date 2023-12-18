@@ -58,7 +58,6 @@ Home page Desktop view  |  Home page mobile view | Mapped to user story
 | :--- | ---: | :---:
 ![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/home-desktop.png)|![Contact Page wireframe for Desktop screen ](assets/images/wireframes/home-mobile.png) | <b>(1, 2, 5)</b>|
 
-
 About page Desktop view  |  About page mobile view | Mapped to user story
 | :--- | ---: | :---:
 ![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-desktop.png) | ![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-mobile.png) | <b>(1,2,4,5)</b>|
