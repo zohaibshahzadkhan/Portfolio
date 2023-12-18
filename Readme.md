@@ -53,15 +53,17 @@ Welcome to the world of my own user experience story. Come along on a trip where
 
 ### Architecting an Intuitive Desktop and Mobile Experience: Unveiling the Wireframe Blueprint 
 
-Home page Desktop view  |  |  Home page mobile view
-| :--- | ---: | :---:
-![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/contactme-desktop.png)| | ![Contact Page wireframe for Desktop screen ](assets/images/wireframes/contact-mobile.png) | 
+
+Home page Desktop view             |  Home page mobile view
+:-------------------------:|:-------------------------:
+![Home Page wireframe for Desktop screen ](assets/images/wireframes/home-desktop.png) | ![Home Page wireframe for Desktop screen ](assets/images/wireframes/home-mobile.png)
+
+Aboutme page Desktop view             |  Aboutme page mobile view
+:-------------------------:|:-------------------------:
+![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-desktop.png) | ![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-mobile.png)
 
 
-About page Desktop view  |  |  About page mobile view
-| :--- | ---: | :---:
-![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-desktop.png) | | ![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-mobile.png)
+Contact page Desktop view             |  Contact page mobile view
+:-------------------------:|:-------------------------:
+![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/contactme-desktop.png)| ![Contact Page wireframe for Desktop screen ](assets/images/wireframes/contact-mobile.png)
 
-Contact page Desktop view  |  |  Contact page mobile view
-| :--- | ---: | :---:
-![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/contactme-desktop.png)| | ![Contact Page wireframe for Desktop screen ](assets/images/wireframes/contact-mobile.png)
