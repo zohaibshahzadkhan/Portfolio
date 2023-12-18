@@ -38,6 +38,7 @@ Welcome to the world of my own user experience story. Come along on a trip where
 3. As a Networking Contact:
 
     * <b>Story:</b>  As a networking contact, I want to quickly understand the candidate's professional background and accomplishments to determine the potential value of connecting with them and contact them via contact form.
+    * <b>Story:</b>  As a user once I contact candidate I should be notified with a thankyou message so than I know that my message has been sent.
 
 4. As a Student or Aspiring Professional:
 
@@ -53,15 +54,15 @@ Welcome to the world of my own user experience story. Come along on a trip where
 
 ### Architecting an Intuitive Desktop and Mobile Experience: Unveiling the Wireframe Blueprint 
 
-Home page Desktop view  |  |  Home page mobile view
+Home page Desktop view  |  Home page mobile view | Mapped to user story
 | :--- | ---: | :---:
-![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/contactme-desktop.png)| | ![Contact Page wireframe for Desktop screen ](assets/images/wireframes/contact-mobile.png) | 
+![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/home-desktop.png)|![Contact Page wireframe for Desktop screen ](assets/images/wireframes/home-mobile.png) | <b>(1, 2, 5)</b>|
 
 
-About page Desktop view  |  |  About page mobile view
+About page Desktop view  |  About page mobile view | Mapped to user story
 | :--- | ---: | :---:
-![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-desktop.png) | | ![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-mobile.png)
+![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-desktop.png) | ![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-mobile.png) | <b>(1,2,4,5)</b>|
 
-Contact page Desktop view  |  |  Contact page mobile view
+Contact page Desktop view  |  Contact page mobile view | Mapped to user story
 | :--- | ---: | :---:
-![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/contactme-desktop.png)| | ![Contact Page wireframe for Desktop screen ](assets/images/wireframes/contact-mobile.png)
+![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/contactme-desktop.png)| ![Contact Page wireframe for Desktop screen ](assets/images/wireframes/contact-mobile.png) | <b>(3)</b>|
