@@ -209,3 +209,26 @@ These features collectively enrich the footer section, making it a valuable reso
 **Footer section on all devices**
 
 ![Footer](assets/images/features/footer.png)
+
+# Future Features
+Outline of Upcoming Features:
+
+1. **Enhanced User Interface:** We plan to revamp the user interface to create a more visually appealing and user-friendly experience, ensuring seamless navigation.
+
+2. **Expanded Portfolio Showcase:** Adding new projects and accomplishments to provide a comprehensive overview of my evolving skill set and professional journey.
+
+3. **Interactive Timeline:** Introducing an interactive timeline feature to showcase the chronological progression of my experiences, making it easier for visitors to understand my career trajectory.
+
+4. **Skill Proficiency Badges:** Incorporating visually striking badges to highlight proficiency levels in various skills, providing a quick and engaging overview of my expertise.
+
+5. **Blog Integration:** Integrating a blog section to share insights, industry trends, and personal reflections, fostering a deeper connection with the audience.
+
+6. **Client Testimonials:** Including a dedicated section for client testimonials to build credibility and showcase positive experiences from collaborators and clients.
+
+7. **Expanded Contact Options:** Providing additional contact options, such as a direct messaging system or scheduling tools, to facilitate convenient communication with visitors.
+
+8. **Project Pages:** Introducing dedicated project pages to showcase a detailed overview of each project, offering in-depth insights into the challenges, solutions, and outcomes.
+
+9. **Downloadable CV Option:** Adding the option for users to download my CV directly from the website, making it convenient for potential employers and collaborators to access my credentials.
+
+These planned features aim to elevate the overall user experience, highlight achievements more effectively, and offer a more dynamic and interactive portrayal of my professional journey.
