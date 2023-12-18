@@ -86,11 +86,11 @@ On each page, a distinct heading welcomes visitors. The language, color palette,
 
 * With two versions for different screens, the navigation bar maintains consistent color and design styles, ensuring a smooth user experience.
 
-Navigation bar on Desktop view
+**Navigation bar on Desktop view**
 
 ![Desktop Navbar](assets/images/features/navbar-desktop.png)
 ---
-Navigation bar on Mobile view
+**Navigation bar on Mobile view**
 
 ![Mobile Navbar](assets/images/features/navbar-mobile.png)
 
@@ -107,17 +107,17 @@ Navigation bar on Mobile view
 
 * Each section is responsive, seamlessly adjusting to different screen sizes while maintaining a visually appealing layout. The overall goal is to create a warm and friendly impression, enticing users to explore further, ultimately leading them to the Contact Page.
 
-Home page on Desktop view
+**Home page on Desktop view**
 
 ![Desktop Home page](assets/images/features/home-desktop.png)
 ---
 
-Home on Tablets
+**Home on Tablets**
 
 ![Mobile Home page](assets/images/features/home-tablet.png)
 ---
 
-Home on Mobile view
+**Home on Mobile view**
 
 ![Mobile Home page](assets/images/features/home-mobile.png)
 
@@ -136,17 +136,17 @@ Home on Mobile view
 These features collectively enhance the user experience, making it convenient for the target audience to navigate through my professional journey, explore my skills, and access details about my past work and reach out to companies I work with with a single click on the company logos.
 
 
-About page on Desktop view
+**About page on Desktop view**
 
 ![Desktop About page](assets/images/features/about-desktop.png)
 ---
 
-About on Tablets
+**About on Tablets**
 
 ![Mobile About page](assets/images/features/about-tablet.png)
 ---
 
-About on Mobile view
+**About on Mobile view**
 
 ![Mobile About page](assets/images/features/about-mobile.png)
 
@@ -167,20 +167,20 @@ About on Mobile view
 
 These features, coupled with form validation, collectively contribute to an efficient and user-centric contact page, fostering effective communication, minimizing errors, and encouraging engagement with my target audience
 
-Contact page on Desktop view
+**Contact page on Desktop view**
 
 ![Desktop Contact page](assets/images/features/contact-desktop.png)
 ---
-Thank you page on Desktop
+**Thank you page on Desktop**
 
 ![Desktop Thankyou page](assets/images/features/thankyou-desktop.png)
 ---
 
-Contact on mobile
+**Contact on Mobile**
 
 ![Mobile Contact page](assets/images/features/contact-mobile.png)
 ---
-Thank you page on Mobile
+**Thank you page on Mobile**
 
 ![Desktop Thankyou page](assets/images/features/thankyou-mobile.png)
 ---
@@ -206,5 +206,6 @@ Thank you page on Mobile
 
 These features collectively enrich the footer section, making it a valuable resource for my target audience to connect, engage, and stay updated with my professional content and activities.
 
-Footer section on all devices
+**Footer section on all devices**
+
 ![Footer](assets/images/features/footer.png)
