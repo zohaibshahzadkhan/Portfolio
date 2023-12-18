@@ -47,7 +47,21 @@ Welcome to the world of my own user experience story. Come along on a trip where
 
     * <b>Story:</b>   As a general audience member, I want to navigate through the portfolio easily and enjoyably, discovering the candidate's personality, passions, and the impact of their work in a way that is accessible and engaging.
 
+## Wireframes
+
+ In order to facilitate a systematic approach towards the implementation of user needs and goals throughout the web development process, the selected designs have been strategically mapped with relevant user story numbers. This carefully designed integration shall provide for a user oriented design, which complies with the identified requirements set out in each user story.
+
+### Architecting an Intuitive Desktop and Mobile Experience: Unveiling the Wireframe Blueprint 
+
+Home page Desktop view  |  |  Home page mobile view
+| :--- | ---: | :---:
+![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/contactme-desktop.png)| | ![Contact Page wireframe for Desktop screen ](assets/images/wireframes/contact-mobile.png) | 
 
 
+About page Desktop view  |  |  About page mobile view
+| :--- | ---: | :---:
+![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-desktop.png) | | ![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-mobile.png)
 
-
+Contact page Desktop view  |  |  Contact page mobile view
+| :--- | ---: | :---:
+![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/contactme-desktop.png)| | ![Contact Page wireframe for Desktop screen ](assets/images/wireframes/contact-mobile.png)
