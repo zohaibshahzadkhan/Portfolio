@@ -65,3 +65,146 @@ About page Desktop view  |  About page mobile view | Mapped to user story
 Contact page Desktop view  |  Contact page mobile view | Mapped to user story
 | :--- | ---: | :---:
 ![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/contactme-desktop.png)| ![Contact Page wireframe for Desktop screen ](assets/images/wireframes/contact-mobile.png) | <b>(3)</b>|
+
+# Features
+
+
+My portfolio website is designed to emulate a traditional website structure, ensuring a seamless and instinctive user journey that captivates users and encourages further exploration.
+
+On each page, a distinct heading welcomes visitors. The language, color palette, and design choices are deliberately chosen to convey a friendly and easily comprehensible atmosphere.
+
+
+## Navigation
+
+* A concise introduction presenting Zohaib Shahzad as a Full Stack Software Developer with a clear focus on key areas of expertise.
+
+* Easy navigation with categorized sections Home, About, Contact Me, for a seamless user experience.
+
+* Each active link is accompanied by a highlighter, enhancing accessibility.
+
+* Top left in the navigation bar, the clickable logo seamlessly takes you back to the homepage.
+
+* With two versions for different screens, the navigation bar maintains consistent color and design styles, ensuring a smooth user experience.
+
+Navigation bar on Desktop view
+
+![Desktop Navbar](assets/images/features/navbar-desktop.png)
+---
+Navigation bar on Mobile view
+
+![Mobile Navbar](assets/images/features/navbar-mobile.png)
+
+## Home
+* The Home Page serves as the initial impression for visitors, designed to be inviting and clearly communicate my mission.
+
+* My profile picture on the home page serves as the virtual handshake, creating an immediate and personal connection with users. Profile picture  conveys authenticity, and humanizes the online experience, making visitors more likely to engage and connect with me. In essence, it becomes a pivotal element in shaping the first impression and establishing a meaningful rapport with the audience.
+
+* Just below my mission, a snippet of content, a thoughtfully chosen quote, provides a glimpse into the website's ethos, setting the tone for the user.
+
+* My introductory audio journey is a captivating gateway for users into the essence of my personality and professional journey. The audio format adds a dynamic and engaging layer, allowing visitors to connect with my story on a more personal level. The tone, inflection, and narrative in my audio introduction create a memorable and immersive experience, leaving a lasting impact on users. This unique touch enhances the overall user experience, making my portfolio more distinctive and relatable.
+
+* Concluding the Home Page is a Stories section featuring four testimonials, adding authenticity and personal branding, showcasing my mission and journey.
+
+* Each section is responsive, seamlessly adjusting to different screen sizes while maintaining a visually appealing layout. The overall goal is to create a warm and friendly impression, enticing users to explore further, ultimately leading them to the Contact Page.
+
+Home page on Desktop view
+
+![Desktop Home page](assets/images/features/home-desktop.png)
+---
+
+Home on Tablets
+
+![Mobile Home page](assets/images/features/home-tablet.png)
+---
+
+Home on Mobile view
+
+![Mobile Home page](assets/images/features/home-mobile.png)
+
+## About
+
+* Detailed Work Experience: Clearly outlined work experiences, providing insights into roles, responsibilities, and key achievements at Edge Case Research and TerraLoupe.
+
+* Highlighting Skills: Demonstrates proficiency in developing user-centric web applications, expertise in technologies such as Vue, Vuex, React.js, Redux, and Django, and specialized knowledge in cloud platforms like AWS, Microsoft Azure, Google Cloud, and Oracle Cloud.
+
+* Clickable Company Logos: Enhances user accessibility with clickable logos of Edge Case Research and TerraLoupe, allowing visitors to easily access detailed company profiles and explore my contributions and achievements in each role.
+
+* Project Highlights: Main highlights under each work experience detail key projects, technologies used, and specific achievements, giving users a comprehensive understanding of my capabilities and contributions.
+
+* Timeline Presentation: A clear timeline format for work experience, offering a chronological view that aids in understanding the progression of my career.
+
+These features collectively enhance the user experience, making it convenient for the target audience to navigate through my professional journey, explore my skills, and access details about my past work and reach out to companies I work with with a single click on the company logos.
+
+
+About page on Desktop view
+
+![Desktop About page](assets/images/features/about-desktop.png)
+---
+
+About on Tablets
+
+![Mobile About page](assets/images/features/about-tablet.png)
+---
+
+About on Mobile view
+
+![Mobile About page](assets/images/features/about-mobile.png)
+
+## Contact Me
+* User-Friendly Form: An intuitive form with fields for name, email, and message, providing a straightforward means for visitors to submit their inquiries or messages.
+
+* Effortless Submission: Upon hitting the "Submit" button, users are seamlessly redirected to a dedicated "Thank You" page, acknowledging the successful submission of their message.
+
+* Automated Confirmation: The "Thank You" page automatically redirects users back to the home page after a brief 10-second interval, ensuring a smooth and timely transition.
+
+* Form Validation: Incorporates form validation to ensure  complete user inputs and enhancing the overall submission process.
+
+* Efficient Communication: Facilitates direct communication by collecting essential information such as name and email, allowing me to respond promptly and effectively to inquiries.
+
+* Enhanced User Experience: Simplifies the interaction process, making it convenient for my target audience to reach out, ask questions, or express interest, contributing to an overall positive user experience.
+
+* Acknowledgment of Submission: The "Thank You" page serves as a confirmation, assuring users that their messages have been received successfully, providing a sense of reassurance and professionalism.
+
+These features, coupled with form validation, collectively contribute to an efficient and user-centric contact page, fostering effective communication, minimizing errors, and encouraging engagement with my target audience
+
+Contact page on Desktop view
+
+![Desktop Contact page](assets/images/features/contact-desktop.png)
+---
+Thank you page on Desktop
+
+![Desktop Thankyou page](assets/images/features/thankyou-desktop.png)
+---
+
+Contact on mobile
+
+![Mobile Contact page](assets/images/features/contact-mobile.png)
+---
+Thank you page on Mobile
+
+![Desktop Thankyou page](assets/images/features/thankyou-mobile.png)
+---
+
+
+**Footer Features:**
+
+- Copyright Information: Clear and visible copyright text, providing legal protection for my content and emphasizing ownership.
+
+- Social Media Links: Clickable icons for Medium and LinkedIn, enabling users to easily connect with me on these platforms for additional insights into my professional activities.
+
+
+- Professional Networking: LinkedIn profile link for users to connect professionally, and stay updated on my professional journey.
+
+- Brand Consistency: Maintains consistency with the overall design and color scheme of my portfolio, contributing to a cohesive and visually appealing presentation.
+
+- Engagement Opportunities: Provides users with multiple avenues to engage with my content—whether through professional networking on LinkedIn or exploring in-depth thoughts on my Medium blog.
+
+- Accessibility: Offers a convenient and accessible way for users to access additional content and stay informed about my professional updates.
+
+- Enhanced User Experience: The footer acts as a navigational aid, enhancing the overall user experience by offering quick and direct access to relevant external content.
+
+
+These features collectively enrich the footer section, making it a valuable resource for my target audience to connect, engage, and stay updated with my professional content and activities.
+
+Footer section on all devices
+![Footer](assets/images/features/footer.png)
