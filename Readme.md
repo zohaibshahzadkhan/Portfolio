@@ -247,6 +247,8 @@ These planned features aim to elevate the overall user experience, highlight ach
 | Chrome  |   ✔    |       ✔       |
 | Firefox |   ✔    |       ✔       |
 
+
+
 ### Testing User Stories
 
 |                                                                                                           Expectation                                                                                                            |                                                                                                                                    Result                                                                                                                                    |
@@ -260,6 +262,21 @@ These planned features aim to elevate the overall user experience, highlight ach
 |      As a general audience member, I want to navigate through the portfolio easily and enjoyably, discovering the candidate's personality, passions, and the impact of their work in a way that is accessible and engaging.      | As a visitor, I can easily navigate to different site pages on different devices and find more information mentioned in candidates portfolio candidate  <br> <br> Evidence: ![Home](assets/images/features/home-desktop.png) ![Home](assets/images/features/home-mobile.png) |
 
  
+ ## Manual Testing Summary
+
+|         Functionality          |                                    Expected Outcome                                     |                                        User Action                                        |                          Test Result                          |
+| :----------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------: |
+|      **Logo Interaction**      |                          Home page opens when logo is clicked                           |                                 Clicked on the Logo Icon                                  |                 Home page opened as expected                  |
+|     **Navbar Navigation**      |                  Respective pages open when navbar buttons are clicked                  |                          Clicked each navbar button individually                          |                  All pages opened correctly                   |
+|     **Audio on Home Page**     |               Play audio ont he Home page and when play button is clicked               |                        Clicked on the play button on audio control                        |         Audio will play and pause button will show up         |
+| **Company Icon on about page** |      Navigate to company websites or Linkedin profile when company logo is clicked      | clicked on company logo present on the left side of the designation heading on about page |             Redirected to company offical website             |
+| **Contact Link on About Page** |                 Navigates to the Contact page when the link is clicked                  |                                Clicked on the contact link                                |                      Contact page opened                      |
+|     **Social Media Icons**     |                    Open relevant websites in a new tab when clicked                     |                   Clicked each social media icon  present in the footer                   |              Respective sites opened in new tabs              |
+|   **Form Submission Button**   |                     Form submits when the submit button is clicked                      |                          Filled out the form and clicked submit                           |       Form contents displayed on the CI form dump page        |
+|    **Required Form Fields**    | Form does not submit if required fields are blank; highlights incorrectly filled fields |                              Incorrectly filled out the form                              | Form did not submit and highlighted incorrectly filled fields |
+
+This manual testing summary provides an overview of the expected outcomes, user actions, and actual results for each tested feature, ensuring a comprehensive evaluation of the website's functionality.
+
 ## Deployment
 
  This website was deployed on GitHub Pages through the following steps:
