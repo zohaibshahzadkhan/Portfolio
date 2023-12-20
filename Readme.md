@@ -236,6 +236,16 @@ These planned features aim to elevate the overall user experience, highlight ach
 
 ## Testing 
 
+### Browser Testing
+
+**Layout:** Testing layout and appearance of site for consistency throughout browsers.
+
+**Functionality:** Ensuring all links, navigation and form submit functions as expected throughout browsers.
+
+| Browser |               Layout                | Functionality |
+| :-----: | :---------------------------------: | :-----------: |
+| Chrome  |                  ✔                  |       ✔       |
+| Firefox |                  ✔                  |       ✔       |
 
 ### Testing User Stories
 
