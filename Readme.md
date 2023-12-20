@@ -278,3 +278,22 @@ To run it locally:
 - Once the download is complete, extract the ZIP file and use it in your local environment.
 
 Alternatively, you can **Clone** or **Fork** this repository into your GitHub account.
+
+
+## Credits
+
+### Media
+
+Text to speech audio was generated through textmagic:
+- [Text Magic](https://freetools.textmagic.com/text-to-speech)
+
+Favicon images were downloaded from the following site:
+- [Icons8](https://icons8.com/icon/TImKb7W8Xrh7/portfolio)
+
+SVG for social media was downloaded by 
+- [Social media icons 20223](https://www.figma.com/file/NYS5Ag49IU2i8vujNFl1j3/Social-Media-Icons-(Community)?type=design&node-id=0-1&mode=design&t=SEJ4TtCteFvulRyG-0)
+
+
+### Content
+Fonts were taken from
+- [Google fonts](https://fonts.google.com/)
