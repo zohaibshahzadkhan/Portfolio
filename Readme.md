@@ -308,7 +308,7 @@ Favicon images were downloaded from the following site:
 - [Icons8](https://icons8.com/icon/TImKb7W8Xrh7/portfolio)
 
 SVG for social media was downloaded by 
-- [Social media icons 20223](https://www.figma.com/file/NYS5Ag49IU2i8vujNFl1j3/Social-Media-Icons-(Community)?type=design&node-id=0-1&mode=design&t=SEJ4TtCteFvulRyG-0)
+- [Social media icons 2023](https://www.figma.com/file/NYS5Ag49IU2i8vujNFl1j3/Social-Media-Icons-(Community)?type=design&node-id=0-1&mode=design&t=SEJ4TtCteFvulRyG-0)
 
 
 ### Content
