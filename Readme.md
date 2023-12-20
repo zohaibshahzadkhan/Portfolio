@@ -242,10 +242,10 @@ These planned features aim to elevate the overall user experience, highlight ach
 
 **Functionality:** Ensuring all links, navigation and form submit functions as expected throughout browsers.
 
-| Browser |               Layout                | Functionality |
-| :-----: | :---------------------------------: | :-----------: |
-| Chrome  |                  ✔                  |       ✔       |
-| Firefox |                  ✔                  |       ✔       |
+| Browser | Layout | Functionality |
+| :-----: | :----: | :-----------: |
+| Chrome  |   ✔    |       ✔       |
+| Firefox |   ✔    |       ✔       |
 
 ### Testing User Stories
 
@@ -260,3 +260,21 @@ These planned features aim to elevate the overall user experience, highlight ach
 |      As a general audience member, I want to navigate through the portfolio easily and enjoyably, discovering the candidate's personality, passions, and the impact of their work in a way that is accessible and engaging.      | As a visitor, I can easily navigate to different site pages on different devices and find more information mentioned in candidates portfolio candidate  <br> <br> Evidence: ![Home](assets/images/features/home-desktop.png) ![Home](assets/images/features/home-mobile.png) |
 
  
+## Deployment
+
+ This website was deployed on GitHub Pages through the following steps:
+
+- Navigate to **Settings** from the GitHub repository.
+- In the left-hand navigation, select **Pages**.
+- In the source section drop-down menu, change the branch from **none** to **main**, and click **Save**.
+- After a few minutes, the website goes live and automatically refreshes with each Git push command.
+
+You can access the live site [here](https://zohaibshahzadkhan.github.io/Portfolio/).
+
+To run it locally:
+
+- Log into GitHub and click on the repository to download ([zohaib-portfolio](https://github.com/zohaibshahzadkhan/Portfolio)).
+- Select **Code** and click "Download ZIP file."
+- Once the download is complete, extract the ZIP file and use it in your local environment.
+
+Alternatively, you can **Clone** or **Fork** this repository into your GitHub account.
