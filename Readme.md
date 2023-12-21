@@ -310,7 +310,13 @@ Favicon images were downloaded from the following site:
 SVG for social media was downloaded by 
 - [Social media icons 2023](https://www.figma.com/file/NYS5Ag49IU2i8vujNFl1j3/Social-Media-Icons-(Community)?type=design&node-id=0-1&mode=design&t=SEJ4TtCteFvulRyG-0)
 
-
 ### Content
 Fonts were taken from
 - [Google fonts](https://fonts.google.com/)
+  
+### wireframe
+Wireframes are created using 
+- [Figma](https://www.figma.com/)
+
+Annotation on wireframes has been done by using 
+- [Stark](https://www.getstark.co/)
