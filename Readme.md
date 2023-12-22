@@ -296,6 +296,22 @@ To assess the colors and fonts, I utilized Lighthouse within Google DevTools. Th
 
 This manual testing summary provides an overview of the expected outcomes, user actions, and actual results for each tested feature, ensuring a comprehensive evaluation of the website's functionality.
 
+
+## Bugs
+
+### Title - Inconsistent Audio Layout
+#### Description
+The layout of the HTML audio element differs between Firefox and Chrome due to variations in their respective frontend implementations. This discrepancy arises from the distinct specifications each browser follows for audio rendering.
+
+![Desktop Thankyou page](assets/media/audio-control-bug.png)
+
+#### Proposed Solution: 
+To address this issue of differing layouts for the HTML audio element between Firefox and Chrome, consider the following steps:
+
+1. **Standardize Implementation:** Ensure that the frontend implementation adheres to the standardized HTML and CSS specifications. This helps minimize variations in rendering across different browsers.
+
+2. **Browser-Specific Styling:** Implement browser-specific styling, if necessary, to accommodate the variations in how Firefox and Chrome interpret and display the HTML audio element. This can involve using CSS prefixes or conditional styles.
+
 ## Deployment
 
  This website was deployed on GitHub Pages through the following steps:
