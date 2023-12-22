@@ -56,15 +56,15 @@ Welcome to the world of my own user experience story. Come along on a trip where
 
 | Home page Desktop view                                                                    |                                                                   Home page mobile view | Mapped to user story |
 | :---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------: | :------------------: |
-| ![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/home-desktop.png) | ![Contact Page wireframe for Desktop screen ](assets/images/wireframes/home-mobile.png) |   <b>(1, 2, 5)</b>   |
+| ![Contact  Page wireframe for Desktop screen ](assets/media/wireframes/home-desktop.png) | ![Contact Page wireframe for Desktop screen ](assets/media/wireframes/home-mobile.png) |   <b>(1, 2, 5)</b>   |
 
 | About page Desktop view                                                                   |                                                                   About page mobile view | Mapped to user story |
 | :---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------: | :------------------: |
-| ![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-desktop.png) | ![About Page wireframe for Desktop screen ](assets/images/wireframes/aboutme-mobile.png) |   <b>(1,2,4,5)</b>   |
+| ![About Page wireframe for Desktop screen ](assets/media/wireframes/aboutme-desktop.png) | ![About Page wireframe for Desktop screen ](assets/media/wireframes/aboutme-mobile.png) |   <b>(1,2,4,5)</b>   |
 
 | Contact page Desktop view                                                                      |                                                                   Contact page mobile view | Mapped to user story |
 | :--------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------: | :------------------: |
-| ![Contact  Page wireframe for Desktop screen ](assets/images/wireframes/contactme-desktop.png) | ![Contact Page wireframe for Desktop screen ](assets/images/wireframes/contact-mobile.png) |      <b>(3)</b>      |
+| ![Contact  Page wireframe for Desktop screen ](assets/media/wireframes/contactme-desktop.png) | ![Contact Page wireframe for Desktop screen ](assets/media/wireframes/contact-mobile.png) |      <b>(3)</b>      |
 
 # Features
 
@@ -88,11 +88,11 @@ On each page, a distinct heading welcomes visitors. The language, color palette,
 
 **Navigation bar on Desktop view**
 
-![Desktop Navbar](assets/images/features/navbar-desktop.png)
+![Desktop Navbar](assets/media/features/navbar-desktop.png)
 ---
 **Navigation bar on Mobile view**
 
-![Mobile Navbar](assets/images/features/navbar-mobile.png)
+![Mobile Navbar](assets/media/features/navbar-mobile.png)
 
 ## Home
 * The Home Page serves as the initial impression for visitors, designed to be inviting and clearly communicate my mission.
@@ -109,17 +109,17 @@ On each page, a distinct heading welcomes visitors. The language, color palette,
 
 **Home page on Desktop view**
 
-![Desktop Home page](assets/images/features/home-desktop.png)
+![Desktop Home page](assets/media/features/home-desktop.png)
 ---
 
 **Home on Tablets**
 
-![Mobile Home page](assets/images/features/home-tablet.png)
+![Mobile Home page](assets/media/features/home-tablet.png)
 ---
 
 **Home on Mobile view**
 
-![Mobile Home page](assets/images/features/home-mobile.png)
+![Mobile Home page](assets/media/features/home-mobile.png)
 
 ## About
 
@@ -138,17 +138,17 @@ These features collectively enhance the user experience, making it convenient fo
 
 **About page on Desktop view**
 
-![Desktop About page](assets/images/features/about-desktop.png)
+![Desktop About page](assets/media/features/about-desktop.png)
 ---
 
 **About on Tablets**
 
-![Mobile About page](assets/images/features/about-tablet.png)
+![Mobile About page](assets/media/features/about-tablet.png)
 ---
 
 **About on Mobile view**
 
-![Mobile About page](assets/images/features/about-mobile.png)
+![Mobile About page](assets/media/features/about-mobile.png)
 
 ## Contact Me
 * User-Friendly Form: An intuitive form with fields for name, email, and message, providing a straightforward means for visitors to submit their inquiries or messages.
@@ -169,20 +169,20 @@ These features, coupled with form validation, collectively contribute to an effi
 
 **Contact page on Desktop view**
 
-![Desktop Contact page](assets/images/features/contact-desktop.png)
+![Desktop Contact page](assets/media/features/contact-desktop.png)
 ---
 **Thank you page on Desktop**
 
-![Desktop Thankyou page](assets/images/features/thankyou-desktop.png)
+![Desktop Thankyou page](assets/media/features/thankyou-desktop.png)
 ---
 
 **Contact on Mobile**
 
-![Mobile Contact page](assets/images/features/contact-mobile.png)
+![Mobile Contact page](assets/media/features/contact-mobile.png)
 ---
 **Thank you page on Mobile**
 
-![Desktop Thankyou page](assets/images/features/thankyou-mobile.png)
+![Desktop Thankyou page](assets/media/features/thankyou-mobile.png)
 ---
 
 
@@ -208,7 +208,7 @@ These features collectively enrich the footer section, making it a valuable reso
 
 **Footer section on all devices**
 
-![Footer](assets/images/features/footer.png)
+![Footer](assets/media/features/footer.png)
 
 # Future Features
 Outline of Upcoming Features:
@@ -253,13 +253,13 @@ These planned features aim to elevate the overall user experience, highlight ach
 
 |                                                                                                           Expectation                                                                                                            |                                                                                                                                    Result                                                                                                                                    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          As a recruiter, I want to easily navigate through the candidate profolio site to learn the candidate's background, work experiences, and achievements so that I can assess their suitability for the position.          |   As a recruiter, I can quickly read through the main content of the home and about page and find out my mission, interests and work experices  <br><br> Evidence:    ![Home](assets/images/features/home-desktop.png) ![About](assets/images/features/about-desktop.png)    |
-|                              As a recruiter, I want to hear candidate introduction on the landing page so that I can understand more about candidates interest if they aligned with company goals.                               |                                    As a recruiter, I can find the  introductory audio on the home page where I can easily listen to candidates introduction   <br> <br> Evidence: ![Home](assets/images/features/introduction-audio.png)                                     |
-| As a potential client, I want to view social media networks like LinkedIn profile and Medium posts that shows candidate's pofile and projects to evalute their expertise and findout if they align with my project requirements. |                             As a potential client, I can find the social media links on the footer section on each page which redirect me to particular social media platform  <br> <br> Evidence: ![Footer](assets/images/features/footer.png)                              |
-|          As a networking contact, I want to quickly understand the candidate's professional background and accomplishments to determine the potential value of connecting with them and contact them via contact form.           |                                         As a networking contact, I find find work experince on seprate about page and contact via contact form page      <br> <br> Evidence: ![Contact](assets/images/features/contact-desktop.png)                                          |
-|                                                  As a user once I contact candidate I should be notified with a thankyou message so than I know that my message has been sent.                                                   |                                                     As a visitor, I can clearly see acknowledgement message when I submit contact details  <br> <br> Evidence: ![Thankyou](assets/images/features/thankyou-desktop.png)                                                      |
-|                       As a student or aspiring professional, I want to explore the candidate's career path, learn from their experiences, and gain insights into industry trends to guide my own journey.                        |                                                                  As a student , I can find the career details on the about page     <br> <br> Evidence: ![About](assets/images/features/about-desktop.png)                                                                   |
-|      As a general audience member, I want to navigate through the portfolio easily and enjoyably, discovering the candidate's personality, passions, and the impact of their work in a way that is accessible and engaging.      | As a visitor, I can easily navigate to different site pages on different devices and find more information mentioned in candidates portfolio candidate  <br> <br> Evidence: ![Home](assets/images/features/home-desktop.png) ![Home](assets/images/features/home-mobile.png) |
+|          As a recruiter, I want to easily navigate through the candidate profolio site to learn the candidate's background, work experiences, and achievements so that I can assess their suitability for the position.          |   As a recruiter, I can quickly read through the main content of the home and about page and find out my mission, interests and work experices  <br><br> Evidence:    ![Home](assets/media/features/home-desktop.png) ![About](assets/media/features/about-desktop.png)    |
+|                              As a recruiter, I want to hear candidate introduction on the landing page so that I can understand more about candidates interest if they aligned with company goals.                               |                                    As a recruiter, I can find the  introductory audio on the home page where I can easily listen to candidates introduction   <br> <br> Evidence: ![Home](assets/media/features/introduction-audio.png)                                     |
+| As a potential client, I want to view social media networks like LinkedIn profile and Medium posts that shows candidate's pofile and projects to evalute their expertise and findout if they align with my project requirements. |                             As a potential client, I can find the social media links on the footer section on each page which redirect me to particular social media platform  <br> <br> Evidence: ![Footer](assets/media/features/footer.png)                              |
+|          As a networking contact, I want to quickly understand the candidate's professional background and accomplishments to determine the potential value of connecting with them and contact them via contact form.           |                                         As a networking contact, I find find work experince on seprate about page and contact via contact form page      <br> <br> Evidence: ![Contact](assets/media/features/contact-desktop.png)                                          |
+|                                                  As a user once I contact candidate I should be notified with a thankyou message so than I know that my message has been sent.                                                   |                                                     As a visitor, I can clearly see acknowledgement message when I submit contact details  <br> <br> Evidence: ![Thankyou](assets/media/features/thankyou-desktop.png)                                                      |
+|                       As a student or aspiring professional, I want to explore the candidate's career path, learn from their experiences, and gain insights into industry trends to guide my own journey.                        |                                                                  As a student , I can find the career details on the about page     <br> <br> Evidence: ![About](assets/media/features/about-desktop.png)                                                                   |
+|      As a general audience member, I want to navigate through the portfolio easily and enjoyably, discovering the candidate's personality, passions, and the impact of their work in a way that is accessible and engaging.      | As a visitor, I can easily navigate to different site pages on different devices and find more information mentioned in candidates portfolio candidate  <br> <br> Evidence: ![Home](assets/media/features/home-desktop.png) ![Home](assets/media/features/home-mobile.png) |
 
  
  ## Manual Testing Summary
